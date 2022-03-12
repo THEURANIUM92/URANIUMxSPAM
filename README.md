@@ -18,7 +18,7 @@
 
 ## ⚔️ ᎠᎬᏢᏞϴᎽ Ͳϴ ᎻᎬᎡϴᏦႮ
 
-[![𝗗𝗘𝗣𝗟𝗢𝗬 ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https)
+[![𝗗𝗘𝗣𝗟𝗢𝗬 ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/THEURANIUM92/THEURANIUMxSPAMBOT)
 
 
 
