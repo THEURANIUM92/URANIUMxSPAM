@@ -1,4 +1,4 @@
-# THEURANIUMxSPAMBOT
+# URANIUMxSPAM
 ,<h1 align="center">
 
   <b>  [🇮🇳]⚔️𝙐𝙍𝘼𝙉𝙄𝙐𝙈 ✘ 𝙎𝙋𝘼𝙈𝘽𝙊𝙏 ⚔️[🇮🇳] </b>
