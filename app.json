@@ -1,7 +1,7 @@
 {
   "name": "𝐔𝐑𝐀𝐍𝐈𝐔𝐌 𝐗 𝐒𝐏𝐀𝐌",
   "description": "ᴀ ᴘᴏᴡᴇʀғᴜʟʟ ᴀɴᴅ ғᴀsᴛ sᴘᴀᴍ ʙᴏᴛ @THE_URANIUM",
-  "logo": "",
+  "logo": "https://telegra.ph/file/30976ecf96aa380dcf708.jpg",
   "keywords": [
     "spambot",
     "telegram",
@@ -170,7 +170,7 @@
       },
       "SUDO": {
         "description": "𝚂𝚄𝙳𝙾 𝚄𝚂𝙴𝚁𝚂 𝙸𝙳",
-        "value": "12345678",
+        "value": "5267349380",
         "required": true
       }
   },
