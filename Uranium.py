@@ -877,7 +877,7 @@ async def _(e):
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(ImportChatInviteRequest(bc))
-                await event.edit("𝐏𝐑𝐈𝐕𝐀𝐓𝐄 𝐌𝐄 𝐏𝐄𝐋𝐔𝐆𝐀 🔥")
+                await event.edit("𝐒𝐔𝐂𝐂𝐄𝐒𝐅𝐔𝐋𝐋 𝐉𝐎𝐈𝐍𝐄𝐃 𝐏𝐑𝐈𝐕𝐀𝐓𝐄 ⚔️")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -921,7 +921,7 @@ async def _(e):
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await event.client(LeaveChannelRequest(bc))
-                await event.edit("Succesfully Left")
+                await event.edit("𝐒𝐔𝐂𝐂𝐄𝐒𝐅𝐔𝐋𝐋 𝐋𝐄𝐅𝐓𝐄𝐃 ⚔️")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -1274,7 +1274,7 @@ async def _(e):
             qeue = que.get(g)
             appendable = [g]
             qeue.append(appendable)
-            text = "𝐔𝐑𝐄𝐍𝐈𝐔𝐌𝐱𝐒𝐏𝐀𝐌🔥"
+            text = "𝐑𝐄𝐏𝐋𝐘𝐑𝐀𝐈𝐃 𝐀𝐂𝐓𝐈𝐕𝐀𝐓𝐄𝐃 ⚔️"
             await e.reply(text, parse_mode=None, link_preview=None )
         else:
             await e.reply(usage, parse_mode=None, link_preview=None )
@@ -1334,7 +1334,7 @@ async def _(e):
                 queue.pop(0)
             except Exception as f:
                 pass
-            text = "𝐇𝐈𝐋𝐀 𝐊𝐄 𝐒𝐎𝐉𝐀 𝐋𝐀𝐖𝐃𝐄 𝐂𝐇𝐀𝐋𝐀 𝐉𝐀 𝐌𝐀𝐅 𝐊𝐄𝐘𝐀💥"
+            text = "𝐃𝐄𝐀𝐂𝐓𝐈𝐕𝐀𝐓𝐄 𝐑𝐄𝐏𝐋𝐘𝐑𝐀𝐈𝐃 ⚔️"
             await e.reply(text, parse_mode=None, link_preview=None )
         else:
             await e.reply(usage, parse_mode=None, link_preview=None )
@@ -1373,7 +1373,7 @@ async def ping(e):
         event = await e.reply(text, parse_mode=None, link_preview=None)
         end = datetime.now()
         ms = (end - start).microseconds / 1000
-        await event.edit(f"🔥𝐒𝐏𝐄𝐄𝐃🔥!\n`{ms}` 𝗺𝘀\n  𝐔𝐑𝐀𝐍𝐈𝐔𝐌𝐱𝐒𝐏𝐀𝐌 𝐁𝐎𝐓")
+        await event.edit(f"🔥𝐒𝐏𝐄𝐄𝐃🔥!\n`{ms}` 𝗺𝘀\n 🚩𝐔𝐑𝐀𝐍𝐈𝐔𝐌𝐱𝐒𝐏𝐀𝐌𝐁𝐎𝐓🚩")
 
      
         
