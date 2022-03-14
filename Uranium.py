@@ -833,7 +833,7 @@ async def _(e):
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(functions.channels.JoinChannelRequest(channel=bc))
-                await event.edit("𝐔𝐑𝐀𝐍𝐈𝐔𝐌𝐱𝐒𝐏𝐀𝐌🔥")
+                await event.edit("🔥𝐔𝐑𝐀𝐍𝐈𝐔𝐌𝐱𝐒𝐏𝐀𝐌🔥")
             except Exception as e:
                 await event.edit(str(e))   
         else:
